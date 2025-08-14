@@ -20,5 +20,7 @@ You can check the repo @ [https://github.com/gowthamgeddam/J.A.R.V.I.S](https://
 
 > [!IMPORTANT]  
 > Instead of [forking](https://github.com/jackyzha0/quartz/forks) original [quartz github repo](https://github.com/jackyzha0/quartz), I have cloned it to avoid Cross-Fork Object Reference [CFOR vulnerability](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github). But thanks to [MIT License of Quartz](https://github.com/jackyzha0/quartz/blob/v4/LICENSE.txt), I'm allowed to do this.
->  
+>
+> Edit: I just found out now, that cloning is the official recommended way as per [documentation](https://quartz.jzhao.xyz/setting-up-your-GitHub-repository)
+>
 > Thanks to [@jackyzha0](https://github.com/jackyzha0) and all the [contributors](https://github.com/jackyzha0/quartz/graphs/contributors) of Quartz for maintaining this wonderful tool. Special thanks to [@saberzero1](https://github.com/saberzero1) whose quick responses in discord community always helps a lot.
