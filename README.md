@@ -1,18 +1,24 @@
-# Quartz v4
+---
+title: Welcome to J.A.R.V.I.S
+date: 2025-08-15
+---
+_Not the Tony Stark one; this is different._
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## Just Another Repository of Valuable Insights and Stories
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Lately, I've been fascinated by the concepts such as `second brain`, `linked notes`, and `learning in public`.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+So I started this repo to store and share my thoughts, things I’m learning in tech, plus random insights from articles, videos, conversations, and whatever else catches my attention.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+### Tools
 
-## Sponsors
++ [Obsidian](https://obsidian.md) to edit my notes and link them
++ [Quartz - static site generator](https://quartz.jzhao.xyz) to generate static site from my notes
++ [GitHub Pages](https://pages.github.com) to host my site online
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+You can check the repo @ [https://github.com/gowthamgeddam/J.A.R.V.I.S](https://github.com/gowthamgeddam/J.A.R.V.I.S)
+
+> [!IMPORTANT]  
+> Instead of [forking](https://github.com/jackyzha0/quartz/forks) original [quartz github repo](https://github.com/jackyzha0/quartz), I have cloned it to avoid Cross-Fork Object Reference [CFOR vulnerability](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github). But thanks to [MIT License of Quartz](https://github.com/jackyzha0/quartz/blob/v4/LICENSE.txt), I'm allowed to do this.
+>  
+> Thanks to [@jackyzha0](https://github.com/jackyzha0) and all the [contributors](https://github.com/jackyzha0/quartz/graphs/contributors) of Quartz for maintaining this wonderful tool. Special thanks to [@saberzero1](https://github.com/saberzero1) whose quick responses in discord community always helps a lot.
