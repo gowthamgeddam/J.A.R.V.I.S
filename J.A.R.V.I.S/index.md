@@ -4,7 +4,7 @@ date: 2025-08-15
 ---
 _Not the Tony Stark one; this is different._
 
-## Just *A*nother Repository of Valuable Insights and Stories
+## Just Another Repository of Valuable Insights and Stories
 
 Lately, I've been fascinated by the concepts such as `second brain`, `linked notes`, and `learning in public`.
 

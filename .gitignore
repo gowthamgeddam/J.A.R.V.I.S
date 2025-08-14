@@ -4,8 +4,36 @@ node_modules
 public
 prof
 tsconfig.tsbuildinfo
-.obsidian
+
 .quartz-cache
 private/
 .replit
 replit.nix
+
+# Obsidian system files
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian plugin caches and settings that don't need version control
+#.obsidian/plugins/**/node_modules/
+#.obsidian/plugins/**/dist/
+.obsidian/cache
+.obsidian/.obsidian-db
+
+# System-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*~
+
+# Optional: Ignore any attachment folders (images, audio, etc.) if not needed
+# You can comment these out if you want to include them
+# attachments/
+# images/
+# assets/
