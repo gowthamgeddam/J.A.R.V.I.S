@@ -11,15 +11,15 @@ private/
 replit.nix
 
 # Obsidian system files
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+*/.obsidian/workspace
+*/.obsidian/workspace.json
+*/.obsidian/workspace-mobile.json
 
 # Obsidian plugin caches and settings that don't need version control
 #.obsidian/plugins/**/node_modules/
 #.obsidian/plugins/**/dist/
-.obsidian/cache
-.obsidian/.obsidian-db
+*/.obsidian/cache
+*/.obsidian/.obsidian-db
 
 # System-specific files
 .DS_Store
